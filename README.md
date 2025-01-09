@@ -1,10 +1,11 @@
 # InsertTARGETintoMRIv2
 Insertion of spot (MNI defined) in the T1_MRI of a subject
+jan '25 : version4
 #
 Easy methods to make the neuronavigated targeting of DLPFC accurate and routinely accessible for rTMS 	      	      
       Benjamin Pommier, François Vassal, Claire Boutet, Sophie Jeannin, Roland Peyron, Isabelle Faillenot Clinical Neurophysiology (2017) 47, 35 - 46
 
-SPM8 batches
+SPM12 batches
 
 TARGETS INSERTION IN THE PATIENT MRI
 1.	Purpose: neuronavigated targeting
